@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sit-manager"
+  },
+  "targets": {
+    "sit-manager": {
+      "hosting": {
+        "sngsons": [
+          "sngsons"
+        ]
+      }
+    }
+  }
+}
